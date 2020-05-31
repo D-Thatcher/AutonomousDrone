@@ -1,0 +1,25 @@
+(lp0
+S'Command'
+p1
+aS'takeoff'
+p2
+aS'right 20'
+p3
+aS'cw 15'
+p4
+aS'land'
+p5
+ag2
+aS'cw 15'
+p6
+aS'ccw 15'
+p7
+ag5
+ag2
+aS'ccw 15'
+p8
+aS'left 20'
+p9
+ag5
+ag1
+a.
